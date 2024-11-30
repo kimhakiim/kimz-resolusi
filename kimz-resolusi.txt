@@ -1,6 +1,8 @@
 Resolusi Hakim
 - Konsisten untuk coding
+*Belajar dari WPU Unpas
 - Konsisten untuk belajar
+* Minimal dua jam sekali
 - Menguasai HTML kembali
 - Menguasai CSS kembali
 - Belajar Javascript lagi
