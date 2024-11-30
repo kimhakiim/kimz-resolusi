@@ -4,4 +4,5 @@ Resolusi Hakim
 - Menguasai HTML kembali
 - Menguasai CSS kembali
 - Belajar Javascript lagi
-- Menguasai Vue
+- Menguasai React JS kembali
+
